@@ -1,0 +1,22 @@
+body {
+    font-family: 'Urbanist', sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    margin: 1em auto;
+    background-color: #AED6F1;
+    text-align: center;
+}
+
+header h1, footer {
+    font-family: 'VT323', monospace;;
+}
+
+header, footer {
+    display: block;
+    background-color: antiquewhite;
+    width: 50%;
+    align-self: center;
+    border: 2px black solid;
+    margin-bottom: 1em;
+}
